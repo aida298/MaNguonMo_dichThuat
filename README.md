@@ -56,7 +56,7 @@ This project is distributed under the MIT License. You are free to copy, modify,
 
 
 
-
+---
 #VietNamese
 # 🎮 Dich Game By Tu - Trợ Lý Dịch Thuật Màn Hình Trực Tiếp
 
