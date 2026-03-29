@@ -12,11 +12,11 @@
 
 ## ✨ Key Features
 
-* 🎯 **Smart Text Recognition (OCR):** Scans and extracts text from any selected area on the screen with high accuracy.
-* ☁️ **Cloud Dictionary:** Automatically synchronizes and downloads specialized game dictionaries from the GitHub Server.
-* ⚡ **High-speed Translation:** Supports smooth auto-detect translation into Vietnamese (or your target language).
-* 👻 **Silent Update:** Automatically detects new versions, downloads, and installs in the background without interrupting the user.
-* 🖱️ **Minimalist Experience:** Transparent overlay interface. Quickly dismiss translation results with a single **Right-Click**.
+*  **Smart Text Recognition (OCR):** Scans and extracts text from any selected area on the screen with high accuracy.
+*  **Cloud Dictionary:** Automatically synchronizes and downloads specialized game dictionaries from the GitHub Server.
+*  **High-speed Translation:** Supports smooth auto-detect translation into Vietnamese (or your target language).
+*  **Silent Update:** Automatically detects new versions, downloads, and installs in the background without interrupting the user.
+*  **Minimalist Experience:** Transparent overlay interface. Quickly dismiss translation results with a single **Right-Click**.
 
 ---
 
